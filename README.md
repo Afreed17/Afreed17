@@ -1,10 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Afreed</h1>
 <h3 align="center">💻 Student and Full Stack Developer with a Love for Code 💻</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
+<img align="right" alt="Coding" width="600" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afreed17&label=Profile%20views&color=0e75b6&style=flat" alt="afreed17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreed17" alt="afreed17" /></a> </p>
 
 - 🌱 I’m currently learning **REACT,PYTHON,DATASTRUCTRES AND ALGO**
 
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afreed17&show_icons=true&locale=en" alt="afreed17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afreed17&" alt="afreed17" /></p>
-
