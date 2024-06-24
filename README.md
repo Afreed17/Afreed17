@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://github.com/Afreed17/Afreed17/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mohamed Afreed</h1>
 <h3 align="center">💻 Student and Full Stack Developer with a Love for Code 💻</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afreed17&label=Profile%20views&color=0e75b6&style=flat" alt="afreed17" /> </p>
