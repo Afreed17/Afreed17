@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Mohamed Afreed</h1>
 <h3 align="center">💻 Student and Full Stack Developer with a Love for Code 💻</h3>
-<img align="center" alt="Coding" width="900" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+<img align="center" alt="Coding" width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afreed17&label=Profile%20views&color=0e75b6&style=flat" alt="afreed17" /> </p>
