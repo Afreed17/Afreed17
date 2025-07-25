@@ -1,10 +1,9 @@
-<h3 align="center">💻 Student and Full Stack Developer with a Love for Code 💻</h3>
+<h3 align="center">💻 Compliance Intern and DataScience  💻</h3>
 <h2>About me:</h2>
 
-<p>Hi there! 👋 I'm Mohamed Afreed, a dedicated student and passionate full-stack web developer. My journey began with HTML and CSS, and I've since expanded my skills to encompass JavaScript (React), Node.js, Express, PostgreSQL, and more. Currently exploring Python and data structures, I'm driven by a deep curiosity for computer science principles and their practical applications.</p>
+<p>HHi there! 👋 I'm Mohamed Afreed, a recent B.Tech IT graduate, currently working as a Compliance Intern at PhonePe and actively upskilling in Data Science and Artificial Intelligence.
 
-<p>I thrive on solving complex problems and leveraging technology to create impactful solutions. Whether designing elegant user experiences or optimizing system architectures, I approach each challenge with passion and a commitment to continuous learning.</p>
-
+With a background in full-stack development (React, Node.js, Express, PostgreSQL), I’m now focused on solving real-world problems by combining my software skills with AI-powered insights. My mission is to build smart, efficient systems that make a measurable impact..</p>
 
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
